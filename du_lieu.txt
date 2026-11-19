@@ -1,0 +1,137 @@
+[
+  {
+    "ma_sv": "SV001",
+    "ho_ten": "Nguyễn Văn An",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 4.8,
+    "giua_ky": 3.8,
+    "cuoi_ky": 3.7
+  },
+  {
+    "ma_sv": "SV002",
+    "ho_ten": "Trần Thị Bình",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 5.6,
+    "giua_ky": 4.6,
+    "cuoi_ky": 4.4
+  },
+  {
+    "ma_sv": "SV003",
+    "ho_ten": "Lê Minh Châu",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 6.4,
+    "giua_ky": 5.4,
+    "cuoi_ky": 5.1
+  },
+  {
+    "ma_sv": "SV004",
+    "ho_ten": "Phạm Quốc Dũng",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 7.2,
+    "giua_ky": 6.2,
+    "cuoi_ky": 5.8
+  },
+  {
+    "ma_sv": "SV005",
+    "ho_ten": "Hoàng Thu Hà",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 8.0,
+    "giua_ky": 7.0,
+    "cuoi_ky": 6.5
+  },
+  {
+    "ma_sv": "SV006",
+    "ho_ten": "Vũ Đức Huy",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 8.8,
+    "giua_ky": 7.8,
+    "cuoi_ky": 7.2
+  },
+  {
+    "ma_sv": "SV007",
+    "ho_ten": "Đặng Ngọc Lan",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 4.0,
+    "giua_ky": 8.6,
+    "cuoi_ky": 7.9
+  },
+  {
+    "ma_sv": "SV008",
+    "ho_ten": "Bùi Minh Long",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 4.8,
+    "giua_ky": 3.0,
+    "cuoi_ky": 8.6
+  },
+  {
+    "ma_sv": "SV009",
+    "ho_ten": "Đỗ Thị Mai",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 5.6,
+    "giua_ky": 3.8,
+    "cuoi_ky": 3.0
+  },
+  {
+    "ma_sv": "SV010",
+    "ho_ten": "Ngô Thanh Nam",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 6.4,
+    "giua_ky": 4.6,
+    "cuoi_ky": 3.7
+  },
+  {
+    "ma_sv": "SV011",
+    "ho_ten": "Phan Thảo Nguyên",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 7.2,
+    "giua_ky": 5.4,
+    "cuoi_ky": 4.4
+  },
+  {
+    "ma_sv": "SV012",
+    "ho_ten": "Lý Hoàng Phúc",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 8.0,
+    "giua_ky": 6.2,
+    "cuoi_ky": 5.1
+  },
+  {
+    "ma_sv": "SV013",
+    "ho_ten": "Trịnh Thu Trang",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 8.8,
+    "giua_ky": 7.0,
+    "cuoi_ky": 5.8
+  },
+  {
+    "ma_sv": "SV014",
+    "ho_ten": "Mai Anh Tuấn",
+    "ma_mon": "CT101",
+    "ten_mon": "Cơ sở dữ liệu",
+    "thuong_xuyen": 4.0,
+    "giua_ky": 7.8,
+    "cuoi_ky": 6.5
+  },
+  {
+    "ma_sv": "SV015",
+    "ho_ten": "Đinh Thị Vy",
+    "ma_mon": "PY101",
+    "ten_mon": "Lập trình Python",
+    "thuong_xuyen": 4.8,
+    "giua_ky": 8.6,
+    "cuoi_ky": 7.2
+  }
+]
